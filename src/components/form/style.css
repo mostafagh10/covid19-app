@@ -1,0 +1,12 @@
+select{
+    width: 500px;
+    height: 50px;
+    border-radius: 30px;
+    outline: none;
+    text-align-last:center;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+select:hover{
+    cursor: pointer;
+}
